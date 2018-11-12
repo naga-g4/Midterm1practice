@@ -19,6 +19,7 @@ div {
 
 #menu {
     width: 576px;
+    text-align: right;
 }
 
 .floatLeft {
