@@ -23,7 +23,7 @@ div {
 }
 
 #menu {
-    width: 576px;
+    width: 545px;
     text-align: right;
     background-color: sandybrown;
 }
@@ -44,5 +44,7 @@ div {
 }
 
 #content {
-    padding: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    width: 545px;
 }
