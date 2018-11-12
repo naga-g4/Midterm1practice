@@ -16,3 +16,11 @@ div {
 .displayInLine {
     display: inline;
 }
+
+#menu {
+    width: 576px;
+}
+
+.floatLeft {
+    float: left;
+}
