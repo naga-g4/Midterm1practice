@@ -25,3 +25,9 @@ div {
 .floatLeft {
     float: left;
 }
+
+.pic {
+    width: 329px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
