@@ -38,3 +38,7 @@ div {
     padding-right: 19px;
     background-color: green;
 }
+
+.clear {
+    clear: both;
+}
