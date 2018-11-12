@@ -20,6 +20,7 @@ div {
 #menu {
     width: 576px;
     text-align: right;
+    background-color: sandybrown;
 }
 
 .floatLeft {
@@ -30,4 +31,5 @@ div {
     width: 329px;
     padding-left: 19px;
     padding-right: 19px;
+    background-color: green;
 }
