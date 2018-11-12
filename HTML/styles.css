@@ -42,3 +42,7 @@ div {
 .clear {
     clear: both;
 }
+
+#content {
+    padding: 10px;
+}
