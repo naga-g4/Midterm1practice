@@ -8,3 +8,11 @@
 .overFlow {
     overflow: hidden;
 }
+
+div {
+    display: block;
+}
+
+.dispInLine {
+    display: inline;
+}
