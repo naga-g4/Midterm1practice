@@ -13,6 +13,11 @@ div {
     display: block;
 }
 
+#top {
+    height: 135px;
+    line-height: 135px;
+}
+
 .displayInLine {
     display: inline;
 }
