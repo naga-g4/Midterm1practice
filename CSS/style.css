@@ -1,0 +1,10 @@
+#wrapper {
+    background-color: darkgray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+.overFlow {
+    overflow: hidden;
+}
