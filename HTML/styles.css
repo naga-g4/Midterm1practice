@@ -48,3 +48,9 @@ div {
     padding-right: 24px;
     width: 545px;
 }
+
+#sideBar {
+    width: 329px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
